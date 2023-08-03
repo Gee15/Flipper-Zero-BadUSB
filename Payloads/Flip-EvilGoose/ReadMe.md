@@ -56,7 +56,7 @@ Or if you press `Left Control` + `Right Control` at the same time
 
 All contributors names will be listed here
 
-I am Jakoby
+I am yo daddy
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
